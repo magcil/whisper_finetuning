@@ -1,0 +1,1442 @@
+[
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250521/audio_segments/olomeleia-20250521_00.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250521/transcriptions/olomeleia-20250521_00.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250521/audio_segments/olomeleia-20250521_01.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250521/transcriptions/olomeleia-20250521_01.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250521/audio_segments/olomeleia-20250521_02.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250521/transcriptions/olomeleia-20250521_02.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250521/audio_segments/olomeleia-20250521_03.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250521/transcriptions/olomeleia-20250521_03.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250521/audio_segments/olomeleia-20250521_04.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250521/transcriptions/olomeleia-20250521_04.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250521/audio_segments/olomeleia-20250521_05.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250521/transcriptions/olomeleia-20250521_05.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250521/audio_segments/olomeleia-20250521_06.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250521/transcriptions/olomeleia-20250521_06.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250521/audio_segments/olomeleia-20250521_07.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250521/transcriptions/olomeleia-20250521_07.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250521/audio_segments/olomeleia-20250521_08.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250521/transcriptions/olomeleia-20250521_08.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250521/audio_segments/olomeleia-20250521_09.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250521/transcriptions/olomeleia-20250521_09.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250521/audio_segments/olomeleia-20250521_10.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250521/transcriptions/olomeleia-20250521_10.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250521/audio_segments/olomeleia-20250521_11.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250521/transcriptions/olomeleia-20250521_11.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250521/audio_segments/olomeleia-20250521_12.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250521/transcriptions/olomeleia-20250521_12.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250521/audio_segments/olomeleia-20250521_13.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250521/transcriptions/olomeleia-20250521_13.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250521/audio_segments/olomeleia-20250521_14.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250521/transcriptions/olomeleia-20250521_14.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250521/audio_segments/olomeleia-20250521_15.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250521/transcriptions/olomeleia-20250521_15.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250521/audio_segments/olomeleia-20250521_16.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250521/transcriptions/olomeleia-20250521_16.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250521/audio_segments/olomeleia-20250521_17.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250521/transcriptions/olomeleia-20250521_17.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250521/audio_segments/olomeleia-20250521_18.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250521/transcriptions/olomeleia-20250521_18.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250521/audio_segments/olomeleia-20250521_19.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250521/transcriptions/olomeleia-20250521_19.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250521/audio_segments/olomeleia-20250521_20.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250521/transcriptions/olomeleia-20250521_20.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250521/audio_segments/olomeleia-20250521_21.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250521/transcriptions/olomeleia-20250521_21.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250521/audio_segments/olomeleia-20250521_22.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250521/transcriptions/olomeleia-20250521_22.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250521/audio_segments/olomeleia-20250521_23.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250521/transcriptions/olomeleia-20250521_23.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250521/audio_segments/olomeleia-20250521_24.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250521/transcriptions/olomeleia-20250521_24.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250521/audio_segments/olomeleia-20250521_25.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250521/transcriptions/olomeleia-20250521_25.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250521/audio_segments/olomeleia-20250521_26.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250521/transcriptions/olomeleia-20250521_26.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250521/audio_segments/olomeleia-20250521_27.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250521/transcriptions/olomeleia-20250521_27.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250521/audio_segments/olomeleia-20250521_28.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250521/transcriptions/olomeleia-20250521_28.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250521/audio_segments/olomeleia-20250521_29.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250521/transcriptions/olomeleia-20250521_29.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250521/audio_segments/olomeleia-20250521_30.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250521/transcriptions/olomeleia-20250521_30.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250521/audio_segments/olomeleia-20250521_31.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250521/transcriptions/olomeleia-20250521_31.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250521/audio_segments/olomeleia-20250521_32.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250521/transcriptions/olomeleia-20250521_32.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250521/audio_segments/olomeleia-20250521_33.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250521/transcriptions/olomeleia-20250521_33.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250521/audio_segments/olomeleia-20250521_34.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250521/transcriptions/olomeleia-20250521_34.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250521/audio_segments/olomeleia-20250521_35.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250521/transcriptions/olomeleia-20250521_35.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250521/audio_segments/olomeleia-20250521_36.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250521/transcriptions/olomeleia-20250521_36.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250521/audio_segments/olomeleia-20250521_37.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250521/transcriptions/olomeleia-20250521_37.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250521/audio_segments/olomeleia-20250521_38.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250521/transcriptions/olomeleia-20250521_38.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250521/audio_segments/olomeleia-20250521_39.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250521/transcriptions/olomeleia-20250521_39.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250521/audio_segments/olomeleia-20250521_40.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250521/transcriptions/olomeleia-20250521_40.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250521/audio_segments/olomeleia-20250521_41.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250521/transcriptions/olomeleia-20250521_41.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250521/audio_segments/olomeleia-20250521_42.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250521/transcriptions/olomeleia-20250521_42.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250521/audio_segments/olomeleia-20250521_43.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250521/transcriptions/olomeleia-20250521_43.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250521/audio_segments/olomeleia-20250521_44.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250521/transcriptions/olomeleia-20250521_44.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250521/audio_segments/olomeleia-20250521_45.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250521/transcriptions/olomeleia-20250521_45.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250521/audio_segments/olomeleia-20250521_46.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250521/transcriptions/olomeleia-20250521_46.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250521/audio_segments/olomeleia-20250521_47.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250521/transcriptions/olomeleia-20250521_47.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250521/audio_segments/olomeleia-20250521_48.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250521/transcriptions/olomeleia-20250521_48.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250521/audio_segments/olomeleia-20250521_49.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250521/transcriptions/olomeleia-20250521_49.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250521/audio_segments/olomeleia-20250521_50.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250521/transcriptions/olomeleia-20250521_50.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250521/audio_segments/olomeleia-20250521_51.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250521/transcriptions/olomeleia-20250521_51.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250521/audio_segments/olomeleia-20250521_52.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250521/transcriptions/olomeleia-20250521_52.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250521/audio_segments/olomeleia-20250521_53.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250521/transcriptions/olomeleia-20250521_53.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250521/audio_segments/olomeleia-20250521_54.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250521/transcriptions/olomeleia-20250521_54.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250521/audio_segments/olomeleia-20250521_55.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250521/transcriptions/olomeleia-20250521_55.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250521/audio_segments/olomeleia-20250521_56.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250521/transcriptions/olomeleia-20250521_56.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250521/audio_segments/olomeleia-20250521_57.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250521/transcriptions/olomeleia-20250521_57.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250521/audio_segments/olomeleia-20250521_58.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250521/transcriptions/olomeleia-20250521_58.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250521/audio_segments/olomeleia-20250521_59.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250521/transcriptions/olomeleia-20250521_59.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250521/audio_segments/olomeleia-20250521_60.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250521/transcriptions/olomeleia-20250521_60.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250521/audio_segments/olomeleia-20250521_61.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250521/transcriptions/olomeleia-20250521_61.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250521/audio_segments/olomeleia-20250521_62.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250521/transcriptions/olomeleia-20250521_62.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250521/audio_segments/olomeleia-20250521_63.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250521/transcriptions/olomeleia-20250521_63.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250521/audio_segments/olomeleia-20250521_64.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250521/transcriptions/olomeleia-20250521_64.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250521/audio_segments/olomeleia-20250521_65.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250521/transcriptions/olomeleia-20250521_65.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250521/audio_segments/olomeleia-20250521_66.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250521/transcriptions/olomeleia-20250521_66.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250521/audio_segments/olomeleia-20250521_67.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250521/transcriptions/olomeleia-20250521_67.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250521/audio_segments/olomeleia-20250521_68.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250521/transcriptions/olomeleia-20250521_68.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250521/audio_segments/olomeleia-20250521_69.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250521/transcriptions/olomeleia-20250521_69.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250521/audio_segments/olomeleia-20250521_70.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250521/transcriptions/olomeleia-20250521_70.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250521/audio_segments/olomeleia-20250521_71.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250521/transcriptions/olomeleia-20250521_71.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250530/audio_segments/olomeleia-20250530_000.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250530/transcriptions/olomeleia-20250530_000.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250530/audio_segments/olomeleia-20250530_001.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250530/transcriptions/olomeleia-20250530_001.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250530/audio_segments/olomeleia-20250530_002.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250530/transcriptions/olomeleia-20250530_002.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250530/audio_segments/olomeleia-20250530_003.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250530/transcriptions/olomeleia-20250530_003.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250530/audio_segments/olomeleia-20250530_004.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250530/transcriptions/olomeleia-20250530_004.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250530/audio_segments/olomeleia-20250530_005.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250530/transcriptions/olomeleia-20250530_005.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250530/audio_segments/olomeleia-20250530_006.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250530/transcriptions/olomeleia-20250530_006.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250530/audio_segments/olomeleia-20250530_007.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250530/transcriptions/olomeleia-20250530_007.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250530/audio_segments/olomeleia-20250530_008.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250530/transcriptions/olomeleia-20250530_008.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250530/audio_segments/olomeleia-20250530_009.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250530/transcriptions/olomeleia-20250530_009.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250530/audio_segments/olomeleia-20250530_010.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250530/transcriptions/olomeleia-20250530_010.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250530/audio_segments/olomeleia-20250530_011.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250530/transcriptions/olomeleia-20250530_011.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250530/audio_segments/olomeleia-20250530_012.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250530/transcriptions/olomeleia-20250530_012.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250530/audio_segments/olomeleia-20250530_013.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250530/transcriptions/olomeleia-20250530_013.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250530/audio_segments/olomeleia-20250530_014.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250530/transcriptions/olomeleia-20250530_014.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250530/audio_segments/olomeleia-20250530_015.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250530/transcriptions/olomeleia-20250530_015.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250530/audio_segments/olomeleia-20250530_016.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250530/transcriptions/olomeleia-20250530_016.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250530/audio_segments/olomeleia-20250530_017.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250530/transcriptions/olomeleia-20250530_017.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250530/audio_segments/olomeleia-20250530_018.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250530/transcriptions/olomeleia-20250530_018.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250530/audio_segments/olomeleia-20250530_019.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250530/transcriptions/olomeleia-20250530_019.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250530/audio_segments/olomeleia-20250530_020.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250530/transcriptions/olomeleia-20250530_020.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250530/audio_segments/olomeleia-20250530_021.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250530/transcriptions/olomeleia-20250530_021.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250530/audio_segments/olomeleia-20250530_022.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250530/transcriptions/olomeleia-20250530_022.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250530/audio_segments/olomeleia-20250530_023.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250530/transcriptions/olomeleia-20250530_023.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250530/audio_segments/olomeleia-20250530_024.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250530/transcriptions/olomeleia-20250530_024.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250530/audio_segments/olomeleia-20250530_025.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250530/transcriptions/olomeleia-20250530_025.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250530/audio_segments/olomeleia-20250530_026.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250530/transcriptions/olomeleia-20250530_026.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250530/audio_segments/olomeleia-20250530_027.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250530/transcriptions/olomeleia-20250530_027.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250530/audio_segments/olomeleia-20250530_028.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250530/transcriptions/olomeleia-20250530_028.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250530/audio_segments/olomeleia-20250530_029.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250530/transcriptions/olomeleia-20250530_029.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250530/audio_segments/olomeleia-20250530_030.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250530/transcriptions/olomeleia-20250530_030.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250530/audio_segments/olomeleia-20250530_031.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250530/transcriptions/olomeleia-20250530_031.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250530/audio_segments/olomeleia-20250530_032.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250530/transcriptions/olomeleia-20250530_032.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250530/audio_segments/olomeleia-20250530_033.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250530/transcriptions/olomeleia-20250530_033.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250530/audio_segments/olomeleia-20250530_034.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250530/transcriptions/olomeleia-20250530_034.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250530/audio_segments/olomeleia-20250530_035.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250530/transcriptions/olomeleia-20250530_035.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250530/audio_segments/olomeleia-20250530_036.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250530/transcriptions/olomeleia-20250530_036.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250530/audio_segments/olomeleia-20250530_037.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250530/transcriptions/olomeleia-20250530_037.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250530/audio_segments/olomeleia-20250530_038.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250530/transcriptions/olomeleia-20250530_038.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250530/audio_segments/olomeleia-20250530_039.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250530/transcriptions/olomeleia-20250530_039.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250530/audio_segments/olomeleia-20250530_040.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250530/transcriptions/olomeleia-20250530_040.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250530/audio_segments/olomeleia-20250530_041.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250530/transcriptions/olomeleia-20250530_041.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250530/audio_segments/olomeleia-20250530_042.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250530/transcriptions/olomeleia-20250530_042.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250530/audio_segments/olomeleia-20250530_043.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250530/transcriptions/olomeleia-20250530_043.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250530/audio_segments/olomeleia-20250530_044.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250530/transcriptions/olomeleia-20250530_044.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250530/audio_segments/olomeleia-20250530_045.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250530/transcriptions/olomeleia-20250530_045.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250530/audio_segments/olomeleia-20250530_046.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250530/transcriptions/olomeleia-20250530_046.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250530/audio_segments/olomeleia-20250530_047.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250530/transcriptions/olomeleia-20250530_047.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250530/audio_segments/olomeleia-20250530_048.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250530/transcriptions/olomeleia-20250530_048.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250530/audio_segments/olomeleia-20250530_049.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250530/transcriptions/olomeleia-20250530_049.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250530/audio_segments/olomeleia-20250530_050.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250530/transcriptions/olomeleia-20250530_050.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250530/audio_segments/olomeleia-20250530_051.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250530/transcriptions/olomeleia-20250530_051.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250530/audio_segments/olomeleia-20250530_052.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250530/transcriptions/olomeleia-20250530_052.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250530/audio_segments/olomeleia-20250530_053.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250530/transcriptions/olomeleia-20250530_053.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250530/audio_segments/olomeleia-20250530_054.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250530/transcriptions/olomeleia-20250530_054.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250530/audio_segments/olomeleia-20250530_055.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250530/transcriptions/olomeleia-20250530_055.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250530/audio_segments/olomeleia-20250530_056.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250530/transcriptions/olomeleia-20250530_056.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250530/audio_segments/olomeleia-20250530_057.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250530/transcriptions/olomeleia-20250530_057.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250530/audio_segments/olomeleia-20250530_058.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250530/transcriptions/olomeleia-20250530_058.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250530/audio_segments/olomeleia-20250530_059.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250530/transcriptions/olomeleia-20250530_059.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250530/audio_segments/olomeleia-20250530_060.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250530/transcriptions/olomeleia-20250530_060.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250530/audio_segments/olomeleia-20250530_061.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250530/transcriptions/olomeleia-20250530_061.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250530/audio_segments/olomeleia-20250530_062.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250530/transcriptions/olomeleia-20250530_062.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250530/audio_segments/olomeleia-20250530_063.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250530/transcriptions/olomeleia-20250530_063.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250530/audio_segments/olomeleia-20250530_064.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250530/transcriptions/olomeleia-20250530_064.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250530/audio_segments/olomeleia-20250530_065.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250530/transcriptions/olomeleia-20250530_065.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250530/audio_segments/olomeleia-20250530_066.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250530/transcriptions/olomeleia-20250530_066.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250530/audio_segments/olomeleia-20250530_067.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250530/transcriptions/olomeleia-20250530_067.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250530/audio_segments/olomeleia-20250530_068.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250530/transcriptions/olomeleia-20250530_068.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250530/audio_segments/olomeleia-20250530_069.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250530/transcriptions/olomeleia-20250530_069.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250530/audio_segments/olomeleia-20250530_070.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250530/transcriptions/olomeleia-20250530_070.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250530/audio_segments/olomeleia-20250530_071.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250530/transcriptions/olomeleia-20250530_071.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250530/audio_segments/olomeleia-20250530_072.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250530/transcriptions/olomeleia-20250530_072.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250530/audio_segments/olomeleia-20250530_073.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250530/transcriptions/olomeleia-20250530_073.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250530/audio_segments/olomeleia-20250530_074.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250530/transcriptions/olomeleia-20250530_074.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250530/audio_segments/olomeleia-20250530_075.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250530/transcriptions/olomeleia-20250530_075.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250530/audio_segments/olomeleia-20250530_076.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250530/transcriptions/olomeleia-20250530_076.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250530/audio_segments/olomeleia-20250530_077.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250530/transcriptions/olomeleia-20250530_077.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250530/audio_segments/olomeleia-20250530_078.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250530/transcriptions/olomeleia-20250530_078.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250530/audio_segments/olomeleia-20250530_079.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250530/transcriptions/olomeleia-20250530_079.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250530/audio_segments/olomeleia-20250530_080.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250530/transcriptions/olomeleia-20250530_080.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250530/audio_segments/olomeleia-20250530_081.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250530/transcriptions/olomeleia-20250530_081.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250530/audio_segments/olomeleia-20250530_082.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250530/transcriptions/olomeleia-20250530_082.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250530/audio_segments/olomeleia-20250530_083.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250530/transcriptions/olomeleia-20250530_083.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250530/audio_segments/olomeleia-20250530_084.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250530/transcriptions/olomeleia-20250530_084.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250530/audio_segments/olomeleia-20250530_085.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250530/transcriptions/olomeleia-20250530_085.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250530/audio_segments/olomeleia-20250530_086.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250530/transcriptions/olomeleia-20250530_086.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250530/audio_segments/olomeleia-20250530_087.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250530/transcriptions/olomeleia-20250530_087.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250530/audio_segments/olomeleia-20250530_088.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250530/transcriptions/olomeleia-20250530_088.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250530/audio_segments/olomeleia-20250530_089.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250530/transcriptions/olomeleia-20250530_089.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250530/audio_segments/olomeleia-20250530_090.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250530/transcriptions/olomeleia-20250530_090.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250530/audio_segments/olomeleia-20250530_091.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250530/transcriptions/olomeleia-20250530_091.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250530/audio_segments/olomeleia-20250530_092.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250530/transcriptions/olomeleia-20250530_092.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250530/audio_segments/olomeleia-20250530_093.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250530/transcriptions/olomeleia-20250530_093.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250530/audio_segments/olomeleia-20250530_094.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250530/transcriptions/olomeleia-20250530_094.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250530/audio_segments/olomeleia-20250530_095.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250530/transcriptions/olomeleia-20250530_095.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250530/audio_segments/olomeleia-20250530_096.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250530/transcriptions/olomeleia-20250530_096.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250530/audio_segments/olomeleia-20250530_097.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250530/transcriptions/olomeleia-20250530_097.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250530/audio_segments/olomeleia-20250530_098.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250530/transcriptions/olomeleia-20250530_098.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250530/audio_segments/olomeleia-20250530_099.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250530/transcriptions/olomeleia-20250530_099.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250530/audio_segments/olomeleia-20250530_100.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250530/transcriptions/olomeleia-20250530_100.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250530/audio_segments/olomeleia-20250530_101.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250530/transcriptions/olomeleia-20250530_101.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250530/audio_segments/olomeleia-20250530_102.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250530/transcriptions/olomeleia-20250530_102.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250530/audio_segments/olomeleia-20250530_103.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250530/transcriptions/olomeleia-20250530_103.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250530/audio_segments/olomeleia-20250530_104.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250530/transcriptions/olomeleia-20250530_104.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250530/audio_segments/olomeleia-20250530_105.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250530/transcriptions/olomeleia-20250530_105.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250530/audio_segments/olomeleia-20250530_106.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250530/transcriptions/olomeleia-20250530_106.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250530/audio_segments/olomeleia-20250530_107.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250530/transcriptions/olomeleia-20250530_107.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250530/audio_segments/olomeleia-20250530_108.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250530/transcriptions/olomeleia-20250530_108.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250530/audio_segments/olomeleia-20250530_109.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250530/transcriptions/olomeleia-20250530_109.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250530/audio_segments/olomeleia-20250530_110.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250530/transcriptions/olomeleia-20250530_110.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250530/audio_segments/olomeleia-20250530_111.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250530/transcriptions/olomeleia-20250530_111.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250530/audio_segments/olomeleia-20250530_112.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250530/transcriptions/olomeleia-20250530_112.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250530/audio_segments/olomeleia-20250530_113.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250530/transcriptions/olomeleia-20250530_113.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250530/audio_segments/olomeleia-20250530_114.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250530/transcriptions/olomeleia-20250530_114.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250530/audio_segments/olomeleia-20250530_115.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250530/transcriptions/olomeleia-20250530_115.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250530/audio_segments/olomeleia-20250530_116.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250530/transcriptions/olomeleia-20250530_116.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250530/audio_segments/olomeleia-20250530_117.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250530/transcriptions/olomeleia-20250530_117.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250530/audio_segments/olomeleia-20250530_118.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250530/transcriptions/olomeleia-20250530_118.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250530/audio_segments/olomeleia-20250530_119.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250530/transcriptions/olomeleia-20250530_119.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_000.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_000.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_001.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_001.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_002.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_002.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_003.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_003.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_004.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_004.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_005.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_005.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_006.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_006.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_007.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_007.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_008.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_008.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_009.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_009.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_010.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_010.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_011.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_011.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_012.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_012.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_013.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_013.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_014.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_014.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_015.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_015.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_016.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_016.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_017.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_017.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_018.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_018.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_019.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_019.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_020.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_020.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_021.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_021.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_022.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_022.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_023.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_023.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_024.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_024.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_025.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_025.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_026.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_026.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_027.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_027.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_028.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_028.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_029.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_029.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_030.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_030.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_031.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_031.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_032.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_032.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_033.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_033.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_034.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_034.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_035.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_035.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_036.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_036.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_037.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_037.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_038.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_038.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_039.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_039.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_040.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_040.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_041.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_041.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_042.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_042.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_043.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_043.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_044.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_044.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_045.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_045.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_046.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_046.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_047.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_047.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_048.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_048.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_049.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_049.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_050.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_050.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_051.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_051.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_052.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_052.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_053.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_053.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_054.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_054.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_055.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_055.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_056.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_056.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_057.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_057.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_058.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_058.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_059.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_059.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_060.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_060.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_061.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_061.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_062.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_062.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_063.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_063.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_064.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_064.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_065.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_065.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_066.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_066.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_067.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_067.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_068.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_068.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_069.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_069.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_070.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_070.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_071.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_071.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_072.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_072.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_073.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_073.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_074.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_074.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_075.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_075.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_076.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_076.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_077.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_077.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_078.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_078.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_079.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_079.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_080.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_080.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_081.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_081.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_082.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_082.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_083.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_083.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_084.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_084.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_085.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_085.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_086.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_086.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_087.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_087.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_088.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_088.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_089.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_089.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_090.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_090.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_091.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_091.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_092.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_092.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_093.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_093.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_094.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_094.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_095.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_095.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_096.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_096.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_097.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_097.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_098.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_098.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_099.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_099.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_100.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_100.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_101.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_101.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_102.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_102.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_103.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_103.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_104.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_104.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_105.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_105.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_106.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_106.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_107.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_107.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_108.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_108.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_109.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_109.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_110.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_110.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_111.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_111.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_112.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_112.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_113.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_113.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_114.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_114.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_115.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_115.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_116.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_116.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_117.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_117.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_118.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_118.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_119.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_119.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_120.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_120.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_121.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_121.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_122.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_122.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_123.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_123.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_124.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_124.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_125.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_125.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_126.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_126.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_127.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_127.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_128.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_128.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_129.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_129.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_130.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_130.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_131.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_131.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_132.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_132.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_133.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_133.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_134.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_134.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_135.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_135.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_136.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_136.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_137.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_137.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_138.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_138.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_139.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_139.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_140.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_140.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_141.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_141.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_142.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_142.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_143.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_143.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_144.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_144.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_145.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_145.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_146.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_146.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_147.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_147.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_148.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_148.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_149.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_149.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_150.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_150.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_151.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_151.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_152.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_152.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_153.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_153.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_154.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_154.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_155.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_155.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_156.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_156.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_157.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_157.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_158.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_158.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_159.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_159.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_160.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_160.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_161.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_161.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_162.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_162.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_163.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_163.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_164.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_164.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_165.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_165.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_166.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_166.txt"
+  },
+  {
+    "audio": "/data/asr_test_set_30_sec/olomeleia-20250611/audio_segments/olomeleia-20250611_167.wav",
+    "text": "/data/asr_test_set_30_sec/olomeleia-20250611/transcriptions/olomeleia-20250611_167.txt"
+  }
+]
