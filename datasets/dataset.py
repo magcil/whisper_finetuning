@@ -4,6 +4,9 @@ import os
 import sys
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 import json
+import sys
+import os
+sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from utils import load_wave
 import whisper
 import numpy as np
@@ -77,7 +80,7 @@ class ASRDataset(Dataset):
         
         # Load audio waveform
         audio = load_wave(wave_path=audio_path, sample_rate=self.sample_rate)
-
+        
         # Flatten and pad/trim audio to 30s for Whisper
         audio = whisper.pad_or_trim(audio.flatten())
         
