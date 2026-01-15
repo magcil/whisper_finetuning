@@ -1,5 +1,8 @@
 import torch
 from torch.utils.data import Dataset
+import os 
+import sys
+sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 import json
 from utils import load_wave
 import whisper
@@ -32,7 +35,7 @@ class ASRDataset(Dataset):
         super().__init__()
         
         # Load the JSON split file containing audio paths and transcriptions
-        split_path = f'splits/{split}.json'
+        split_path = f'data/{split}.json'
         try:
             with open(split_path, "r", encoding="utf-8") as f:
                 self.data_list = json.load(f)
@@ -68,14 +71,13 @@ class ASRDataset(Dataset):
             }
         """
         # Extract file path and text transcription
-        audio_path, text = self.data_list[idx].values()
+        audio_path, text_path = self.data_list[idx].values()
+        with open(text_path, mode='r') as text_file:
+            text = text_file.read()
         
         # Load audio waveform
         audio = load_wave(wave_path=audio_path, sample_rate=self.sample_rate)
-        
-        # Ensure audio is not stereo
-        assert audio.shape[0] != 2, f"Audio has 2 channels (stereo), must be mono. Shape: {audio.shape}"
-        
+
         # Flatten and pad/trim audio to 30s for Whisper
         audio = whisper.pad_or_trim(audio.flatten())
         
@@ -164,3 +166,15 @@ class WhisperDataCollatorWithPadding:
             "labels": labels,
             "dec_input_ids": dec_input_ids,
         }
+if __name__ == '__main__':
+    dataset = ASRDataset(split='train', tokenizer=whisper.tokenizer.get_tokenizer(language='el',
+                                                                                   task='transcribe',
+                                                                                   multilingual=True))
+    print(len(dataset))
+    loader = torch.utils.data.DataLoader(dataset, batch_size=3, collate_fn=WhisperDataCollatorWithPadding())
+    for i in loader:
+        print(i['dec_input_ids'])
+        print(i['labels'])
+        break
+
+
