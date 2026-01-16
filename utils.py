@@ -2,6 +2,8 @@ import torchaudio
 import torchaudio.transforms as at
 import torch
 from torch.optim import AdamW
+from transformers import get_linear_schedule_with_warmup
+import re
 
 def load_wave(wave_path: str, sample_rate: int = 16000) -> torch.Tensor:
     """
@@ -40,17 +42,17 @@ def get_optimizer_and_scheduler(model,experiment_config, train_dataset):
     no_decay = ["bias", "LayerNorm.weight"]
     optimizer_grouped_parameters = [
         {
-            "params": [p for n, p in self.model.named_parameters()
+            "params": [p for n, p in model.named_parameters()
                         if p.requires_grad and not any(nd in n for nd in no_decay)],
             "weight_decay": experiment_config['training']['weight_decay'],
         },
         {
-            "params": [p for n, p in self.model.named_parameters()
+            "params": [p for n, p in model.named_parameters()
                         if p.requires_grad and any(nd in n for nd in no_decay)],
             "weight_decay": 0.0,
         }]
 
-    self.optimizer = AdamW(
+    optimizer = AdamW(
             optimizer_grouped_parameters,
             lr=experiment_config['training']['learning_rate'],
             eps=experiment_config['training']['adam_epsilon'])
@@ -62,3 +64,37 @@ def get_optimizer_and_scheduler(model,experiment_config, train_dataset):
             num_training_steps=training_steps)
     
     return optimizer, scheduler
+
+
+class Colors:
+    GREEN = '\033[92m'
+    RED = '\033[91m'
+    ENDC = '\033[0m'
+    BOLD = '\033[1m'
+    UNDERLINE = '\033[4m'
+    WARNING = '\033[93m'
+    FAIL = '\033[91m'
+    WHITE = '\033[97m'
+
+
+
+def decode_labels(tokenizer, labels):
+    ignore_ids = {
+        tokenizer.sot,
+        tokenizer.eot,
+        tokenizer.no_timestamps,
+        -100,
+    }
+
+    texts = []
+    for l in labels:
+        filtered = [t for t in l.tolist() if t not in ignore_ids]
+        texts.append(tokenizer.decode(filtered))
+
+    return texts
+
+
+def strip_timestamps(text):
+    text = re.sub(r"\[.*?\]", "", text)
+    text = re.sub(r"<\|.*?\|>", "", text)
+    return text.strip()

@@ -440,10 +440,6 @@
     "text": "/data/asr_test_set_30_sec/olomeleia-20250530/transcriptions/olomeleia-20250530_037.txt"
   },
   {
-    "audio": "/data/asr_test_set_30_sec/olomeleia-20250530/audio_segments/olomeleia-20250530_038.wav",
-    "text": "/data/asr_test_set_30_sec/olomeleia-20250530/transcriptions/olomeleia-20250530_038.txt"
-  },
-  {
     "audio": "/data/asr_test_set_30_sec/olomeleia-20250530/audio_segments/olomeleia-20250530_039.wav",
     "text": "/data/asr_test_set_30_sec/olomeleia-20250530/transcriptions/olomeleia-20250530_039.txt"
   },

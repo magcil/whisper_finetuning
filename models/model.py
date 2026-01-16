@@ -10,12 +10,12 @@ import json
 import whisper
 
 class WhisperModel(nn.Module):
-    def __init__(self,experiment_config):
+    def __init__(self, experiment_config, tokenizer):
         super().__init__()
         self.model_name = experiment_config["model"]['model_name']
         self.lang = experiment_config["model"]["lang"]
         self.device = experiment_config["training"]["device"]
-        self.tokenizer = tokenizer.get_tokenizer(True, language=experiment_config['model']['lang'], task=experiment_config['model']['task'])
+        self.tokenizer = tokenizer
         self.model = load_model(self.model_name, device = self.device)
         for p in self.model.encoder.parameters():
             p.requires_grad = False
@@ -29,12 +29,16 @@ class WhisperModel(nn.Module):
             return out
         return audio_features
 
-    def decode_predictions(self, logits):
+    def predict(self, logits):
+        logits = logits.clone()
         logits[logits == -100] = self.tokenizer.eot
+        pred_tokens = torch.argmax(logits, dim=-1)
         decoded_preds = []
-        for o in logits:
-            o = torch.argmax(o, dim=1)
-            decoded_preds.append(self.tokenizer.decode(o, skip_special_tokens=True))
+        special_token_ids = set(self.tokenizer.special_tokens.values())
+
+        for t in pred_tokens:
+            filtered = [token_id for token_id in t.cpu().tolist() if token_id not in special_token_ids]
+            decoded_preds.append(self.tokenizer.decode(filtered))
         return decoded_preds
 
 
