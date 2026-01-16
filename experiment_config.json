@@ -1,0 +1,26 @@
+
+{
+"model": 
+    {
+    "model_name":"small",
+    "lang":"el",
+    "task":"transcribe"
+    },
+
+"training": 
+    {
+    "batch_size": 16,
+    "num_epochs": 10,
+    "learning_rate": 5e-5,
+    "weight_decay": 0.01,
+    "warmup_steps": 500,
+    "gradient_accumulation_steps": 2,
+    "device": "cuda:0",
+    "adam_epsilon":1e-8,
+    "total_training_steps":10000,
+    "num_train_epochs":10
+    }
+
+}
+
+

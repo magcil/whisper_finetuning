@@ -1,6 +1,7 @@
 import torchaudio
 import torchaudio.transforms as at
 import torch
+from torch.optim import AdamW
 
 def load_wave(wave_path: str, sample_rate: int = 16000) -> torch.Tensor:
     """
@@ -34,3 +35,30 @@ def load_wave(wave_path: str, sample_rate: int = 16000) -> torch.Tensor:
         waveform = at.Resample(orig_freq=sr, new_freq=sample_rate)(waveform)
     
     return waveform
+
+def get_optimizer_and_scheduler(model,experiment_config, train_dataset):
+    no_decay = ["bias", "LayerNorm.weight"]
+    optimizer_grouped_parameters = [
+        {
+            "params": [p for n, p in self.model.named_parameters()
+                        if p.requires_grad and not any(nd in n for nd in no_decay)],
+            "weight_decay": experiment_config['training']['weight_decay'],
+        },
+        {
+            "params": [p for n, p in self.model.named_parameters()
+                        if p.requires_grad and any(nd in n for nd in no_decay)],
+            "weight_decay": 0.0,
+        }]
+
+    self.optimizer = AdamW(
+            optimizer_grouped_parameters,
+            lr=experiment_config['training']['learning_rate'],
+            eps=experiment_config['training']['adam_epsilon'])
+
+    training_steps = len(train_dataset)// experiment_config['training']['batch_size'] // experiment_config['training']['gradient_accumulation_steps']* float(experiment_config['training']['num_train_epochs'])
+                
+    scheduler = get_linear_schedule_with_warmup(
+            optimizer, num_warmup_steps=experiment_config['training']['warmup_steps'],
+            num_training_steps=training_steps)
+    
+    return optimizer, scheduler
