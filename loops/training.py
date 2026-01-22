@@ -59,6 +59,4 @@ def training_loop(model, training_loader, validation_loader, optimizer, schedule
     
         if early_stopping.early_stop:
             print("Early stopping triggered")
-            break
-        return 
-    
+            break    

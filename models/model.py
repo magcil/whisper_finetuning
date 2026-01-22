@@ -52,7 +52,7 @@ if __name__ == '__main__':
                                                                                    multilingual=True))
     device = experiment_config["training"]["device"]    
     loader = torch.utils.data.DataLoader(dataset, batch_size=10, collate_fn=WhisperDataCollatorWithPadding())
-    model = WhisperModel(experiment_config)
+    model = WhisperModel(experiment_config, tokenizer)
     for batch in loader:
         input_features = batch['input_features'].to(device)
         dec_input_ids = batch['dec_input_ids'].to(device)
