@@ -3,15 +3,12 @@ from torch.utils.data import Dataset
 import os 
 import sys
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-import json
-import sys
-import os
-sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from utils import load_wave
 import whisper
 import numpy as np
 import torch.nn.functional as F
 from typing import List, Dict, Any
+import json
 
 class ASRDataset(Dataset):
     """
@@ -170,8 +167,12 @@ class WhisperDataCollatorWithPadding:
             "dec_input_ids": dec_input_ids,
         }
 if __name__ == '__main__':
-    dataset = ASRDataset(split='train', tokenizer=whisper.tokenizer.get_tokenizer(language='el',
-                                                                                   task='transcribe',
+
+    with open("experiment_config.json", "r", encoding="utf-8") as f:
+        experiment_config = json.load(f)
+
+    dataset = ASRDataset(split='train', tokenizer=whisper.tokenizer.get_tokenizer(language=experiment_config["model"]["lang"],
+                                                                                   task=experiment_config["model"]["task"],
                                                                                    multilingual=True))
     print(len(dataset))
     loader = torch.utils.data.DataLoader(dataset, batch_size=3, collate_fn=WhisperDataCollatorWithPadding())

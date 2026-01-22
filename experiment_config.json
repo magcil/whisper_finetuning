@@ -1,0 +1,36 @@
+
+{
+"model": 
+    {
+    "model_name":"small",
+    "lang":"el",
+    "task":"transcribe"
+    },
+
+"training": 
+    {
+    "batch_size": 16,
+    "loss_fn":"CE",
+    "learning_rate": 5e-5,
+    "weight_decay": 0.001,
+    "warmup_steps": 500,
+    "gradient_accumulation_steps": 2,
+    "device": "cuda:1",
+    "adam_epsilon":1e-8,
+    "total_training_steps":10000,
+    "num_train_epochs":2
+    }
+
+,"early_stopping":
+    {
+    "patience": 5,
+    "model_savepath": "best_model.pt"
+
+    }
+
+
+
+
+
+}
+
